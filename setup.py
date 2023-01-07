@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'basic_python = udemy_py.basic_python_node:main',
         ],
     },
 )
