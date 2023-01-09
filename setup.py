@@ -21,7 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             'basic_python = udemy_py.basic_python_node:main',
-            'robot_news_station = udemy_py.robot_news_station:main'
+            'robot_news_station = udemy_py.robot_news_station:main',
+            'smartphone = udemy_py.smartphone:main'
         ],
     },
 )
