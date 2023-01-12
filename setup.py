@@ -23,7 +23,8 @@ setup(
             'basic_python = udemy_py.basic_python_node:main',
             'robot_news_station = udemy_py.robot_news_station:main',
             'smartphone = udemy_py.smartphone:main',
-            'number_publisher = udemy_py.number_publisher:main'
+            'number_publisher = udemy_py.number_publisher:main',
+            'number_counter = udemy_py.number_counter:main'
         ],
     },
 )
