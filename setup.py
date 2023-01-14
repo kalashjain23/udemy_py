@@ -26,7 +26,8 @@ setup(
             'number_publisher = udemy_py.number_publisher:main',
             'number_counter = udemy_py.number_counter:main',
             'add_two_ints_server = udemy_py.add_two_ints_server:main',
-            'add_two_ints_client = udemy_py.add_two_ints_client:main'
+            'add_two_ints_client = udemy_py.add_two_ints_client:main',
+            'add_two_ints_client_oop = udemy_py.add_two_ints_client_oop:main'
         ],
     },
 )
