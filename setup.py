@@ -29,7 +29,8 @@ setup(
             'add_two_ints_client = udemy_py.add_two_ints_client:main',
             'add_two_ints_client_oop = udemy_py.add_two_ints_client_oop:main',
             'hardware_status_publisher = udemy_py.hardware_status_publisher:main',
-            'battery_node = udemy_py.battery_node:main'
+            'battery_node = udemy_py.battery_node:main',
+            'led_panel_node = udemy_py.led_panel_node:main'
         ],
     },
 )
